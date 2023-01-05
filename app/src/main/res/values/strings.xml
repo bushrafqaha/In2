@@ -1,0 +1,9 @@
+
+<resources>
+<string name="sp">Spinner</string>
+<string-array name="sp">
+    <item>full time</item>
+    <item>part time</item>
+
+</string-array>
+</resources>
